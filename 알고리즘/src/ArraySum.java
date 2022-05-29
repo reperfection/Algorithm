@@ -4,7 +4,7 @@ public class ArraySum {
 		System.out.println("hw1_1 : 정재완");
 		// 배열 array를 다음과 같이 초기화
 		int [] array = {-10, -20, 30, 40, 50, 60, 70, 80, 90, 100, 10, 20};
-		// 배열 인덱스 하한(lb)과 상한(ub)을 입력받는다.
+		// 배열 인덱스 하한(lb)과 상한(ub)을 입력받는다
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("하한 입력(0~11) : ");
 		int lb = scanner.nextInt();
