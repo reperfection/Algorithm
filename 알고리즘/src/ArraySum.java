@@ -28,6 +28,7 @@ public class ArraySum {
 		}
 		System.out.println();
 	}
+	
 	// recursiveArraySum 메소드. array, lb, ub를 매개변수로 받아 배열의 합을 리턴
 	private static int recursiveArraySum(int[] array, int lb, int ub) {
 		if(lb>ub)
