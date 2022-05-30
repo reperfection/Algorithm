@@ -1,5 +1,5 @@
 package hw4_1;
-//예약 번호, 시작시간, 종료시간 정보를 갖는 예약을 표현하는 클래스
+//예약 번호, 시작시간, 종료시간 정보를 갖는 예약을 표현하는 클래스 
 public class Reservation {
 		private int id;
 		private int startTime;
