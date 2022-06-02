@@ -1,6 +1,6 @@
 package hw7_1;
 
-//정수형 해시 테이블인 MyHashTable 클래스를 정의하고 사용하는 프로그램
+//정수형 해시 테이블인 MyHashTable 클래스를 정의하고 사용하는 프로그램 
 public class MyHashTableTest {
 	public static void main(String args[]) {
 		System.out.println("hw7_1 : 정재완");
